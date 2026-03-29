@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AA1234571BFAAAAA00000001 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = AA1234561BFAAAAA00000001 /* PrivacyInfo.xcprivacy */; };
+		AA1234581BFAAAAA00000001 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = AA1234561BFAAAAA00000001 /* PrivacyInfo.xcprivacy */; };
+		AA1234591BFAAAAA00000001 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = AA1234561BFAAAAA00000001 /* PrivacyInfo.xcprivacy */; };
+		AA12345A1BFAAAAA00000001 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = AA1234561BFAAAAA00000001 /* PrivacyInfo.xcprivacy */; };
 		1BF9F9601C87832B00F1F35A /* AFImageResponseSerializerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BF9F95F1C87832B00F1F35A /* AFImageResponseSerializerTests.m */; };
 		1BF9F9611C87843200F1F35A /* AFImageResponseSerializerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BF9F95F1C87832B00F1F35A /* AFImageResponseSerializerTests.m */; };
 		1BF9F9621C87843300F1F35A /* AFImageResponseSerializerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BF9F95F1C87832B00F1F35A /* AFImageResponseSerializerTests.m */; };
@@ -326,6 +330,7 @@
 		E2B10D8C233035100004E005 /* Amazon Root CA 1.cer */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Amazon Root CA 1.cer"; sourceTree = "<group>"; };
 		E2B10D8D233035100004E005 /* Amazon.cer */ = {isa = PBXFileReference; lastKnownFileType = file; path = Amazon.cer; sourceTree = "<group>"; };
 		E91164641DA6A7AE00DFFF56 /* AFPropertyListRequestSerializerTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFPropertyListRequestSerializerTests.m; sourceTree = "<group>"; };
+		AA1234561BFAAAAA00000001 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -492,6 +497,7 @@
 				2995223B1BBF104D00859F49 /* Supporting Files */,
 				298D7C561BC2C88F00FD3B3E /* Tests */,
 				2995223A1BBF104D00859F49 /* Products */,
+				AA1234561BFAAAAA00000001 /* PrivacyInfo.xcprivacy */,
 			);
 			indentWidth = 4;
 			sourceTree = "<group>";
@@ -865,6 +871,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA1234581BFAAAAA00000001 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -953,6 +960,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA1234571BFAAAAA00000001 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -960,6 +968,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA1234591BFAAAAA00000001 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -967,6 +976,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA12345A1BFAAAAA00000001 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
